@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of ernestdefoe/advanced-cookie-consent.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/advanced-cookie-consent) or the [upstream repository](https://github.com/ernestdefoe/advanced-cookie-consent).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-10-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-10-03 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.0.3) |
+| `1.0.4` | 2026-10-15 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.0.4) |
+| `1.1.0` | 2026-10-24 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-advanced-cookie-consent/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/ernestdefoe-advanced-cookie-consent.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-advanced-cookie-consent.json)
 
